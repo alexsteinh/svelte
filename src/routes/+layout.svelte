@@ -6,6 +6,7 @@
 </script>
 
 <svelte:head>
+  <title>Tic-Tac-Toe - Play Against AI</title>
   <link rel="icon" href={favicon} />
 </svelte:head>
 
